@@ -1,6 +1,6 @@
 {
   "name": "webey/package-actions",
-  "version": "1.2.5",
+  "version": "1.2.7",
   "description": "Allow file and folder actions upon package installation or update",
   "type": "composer-plugin",
   "license": "AGPL-3.0",
